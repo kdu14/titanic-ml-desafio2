@@ -22,5 +22,3 @@ A ideia é explorar os dados, tratá-los e aplicar modelos de classificação pa
 - Matplotlib / Seaborn
 - Scikit-learn
 
-## 📂 Estrutura
-
